@@ -20,5 +20,6 @@ The data are provided as-is without any warranty. Use it at your own risk.
 ### donation
 BTC: bc1qyhk4ljxnhwcurr89sp84xtd3kr2y7v882gw807
 LTC: ltc1qkhgcmtgqgnttyyayq3hkvyzds45mddjf52cvzq
+IOTA: CQIRBPGWZIGETLKQMAJIJMRUYWXPIBNLJOVAXEROKAOUAJCHEVJBOJVJAXQYAFLLMHBSBGYDUBHDVPNCXXFIUPKOZZ
 
 Thank you :)
